@@ -1,2 +1,2 @@
- numer = 5
- print(numer)
+numer = 5
+print(numer)
